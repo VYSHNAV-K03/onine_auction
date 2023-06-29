@@ -44,13 +44,13 @@ Hosting:
 ## Screenshots:
 <p align="center">
   <a href="https://live-auctions.netlify.app/">
-    <img width="600" src="./screenshots/home.jpg">
+    <img width="600" src="./server/screenshots/home.jpg">
   </a>
 </p>
 <br>
 <p align="center">
   <a href="https://live-auctions.netlify.app/">
-    <img width="600" src="./screenshots/ad.jpg">
+    <img width="600" src="./server/screenshots/ad.jpg">
   </a>
 </p>
 
